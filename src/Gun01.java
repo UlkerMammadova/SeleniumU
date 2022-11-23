@@ -4,5 +4,11 @@ public class Gun01 {
 
         System.out.println(" merhaba");
 
+
+      for(int i=0;i<10;i++){
+
+          System.out.println(i);
+      }
+
     }
 }
